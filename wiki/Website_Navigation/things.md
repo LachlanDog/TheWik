@@ -2,7 +2,7 @@
 
 | Name                                                            | Who has |
 | --------------------------------------------------------------- | ------- |
-| [Bag_Holding](../things/Bag_Holding.md)                         |         |
+| [Bag_Holding](Bag_Holding.md)                         |         |
 | [Chocolates](../things/Chocolates.md)                           |         |
 | [Conch_Disintergration](../things/Conch_Disintergration.md)     |         |
 | [Doom_bloom](../things/Doom_bloom.md)                           |         |
