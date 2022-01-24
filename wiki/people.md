@@ -2,7 +2,7 @@
 
 | Name                                                                    | Quick Description                       | Location                                                |
 | ----------------------------------------------------------------------- | --------------------------------------- | ------------------------------------------------------- |
-| [Aisha](../people/Aisha.md)                                             |                                         |                                                         |
+| [Aisha](../Website_Navigation/places.md)                                             |                                         |                                                         |
 | [Aloy](../people/Aloy.md)                                               |                                         |                                                         |
 | [Avandra](../people/Avandra.md)                                         |                                         |                                                         |
 | [BuffleWump](../people/BuffleWump.md)                                   |                                         |                                                         |
