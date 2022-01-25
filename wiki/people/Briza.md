@@ -1,5 +1,5 @@
 ---
-tag: People
+tags: People Briza
 ---
 
 Race: Gnome
