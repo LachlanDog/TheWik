@@ -37,7 +37,7 @@ show_downloads: false
 git_branch: "master"
 
 # (string) Url of logo image, it can be full, absolute or relative.
-logo_url:
+logo_url: "DND_Megan04_cr.jpg"
 
 # (string) The UA-XXXXX-Y code from google analytic to enable GA on your wiki
 google_analytics: 
