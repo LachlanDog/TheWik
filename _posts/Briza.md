@@ -1,3 +1,7 @@
+---
+tags: briza people
+---
+
 Race: Gnome
 
 Faction:
