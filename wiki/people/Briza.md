@@ -1,8 +1,15 @@
+---
+tag: People
+---
+
 Race: Gnome
+
 
 Faction:
 
+
 Age: ???
+
 
 ***
 | Name                                        | Connection |
