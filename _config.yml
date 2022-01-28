@@ -14,7 +14,7 @@ description:
 show_wiki_pages: true
 
 # (integer) Maximum number of wiki page to shown in sidebar
-show_wiki_pages_limit: 10
+show_wiki_pages_limit: 0
 
 # (boolean) Enable/disable blog feature
 blog_feature: false
