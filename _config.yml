@@ -5,7 +5,7 @@ title: "The Shrine of Melvakar"
 
 # (string) if you've installed your wiki in subfolder, you must change this configuration
 # with your folder name, otherwise leave it empty
-baseurl: "/dndwiki"
+baseurl: "/TheWik"
 
 # (string) Description of your wiki
 description: 
