@@ -5,8 +5,9 @@ Faction:
 Age: ???
 
 ***
+
 | Name                                        | Connection |
-| ------------------------------------------- | ---------- |
+| :------------------------------------------- | ---------- |
 | [Miss_S (review)](Miss_S%20(review).md)                         |            |
 | [Queen_O'iara](Queen_O'iara.md)           |            |
 | [King_Thra’maluil](King_Thra’maluil.md)     |            |
