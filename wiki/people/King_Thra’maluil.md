@@ -1,6 +1,7 @@
 ***
+
 | Thing       | stuff                               |
-| ----------- | ----------------------------------- |
+| :----------- | ----------------------------------- |
 | Race        | Drow                                |
 | Location    | [Nymthalas](../places/Nymthalas.md) |
 | Age         | Adult                               |
