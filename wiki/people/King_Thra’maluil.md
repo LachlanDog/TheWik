@@ -6,20 +6,11 @@
 | Location    | [Nymthalas](../places/Nymthalas.md) |
 | Age         | Adult                               |
 | Disposition | Yellow                              |
-| Faction     |                                     |
+| Faction     |   Sadness                           |
 | Class       | ---                                 |
 | Wants       | Diamonds for Queen Resurection      |
 |             |                                     |
 
-
-
-Race: Drow
-
-Faction: Sadness
-
-Age:
-
-Location: [Nymthalas](../places/Nymthalas.md)
 
 [Queen_O'iara](Queen_O'iara.md) Ressurection -> Diamonds -> [Aloy](Aloy.md)
 
