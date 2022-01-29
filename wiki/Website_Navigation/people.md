@@ -1,7 +1,4 @@
 ---
-layout: page
-title: People
-permalink: /peopleNav/
 ---
 
 # List by name
