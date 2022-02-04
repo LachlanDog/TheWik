@@ -1,3 +1,9 @@
+---
+---
+
+{{ site.tags.BRIZA }}
+
+
 Race: Gnome
 
 Faction:
