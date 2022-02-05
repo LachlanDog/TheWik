@@ -1,7 +1,8 @@
 ---
+tag: Briza
 ---
 
-{{ site.tags.BRIZA }}
+{{ page.tags }}
 
 
 Race: Gnome
